@@ -1,6 +1,7 @@
 # tt4
 thai treebank
 ## If you have any errors.Your node module may not complete. You can download from my google drive.
+This link is permission for SIIT,TU
 
 https://drive.google.com/a/g.siit.tu.ac.th/file/d/1-Rhu-dlB8_v93EEerxwAYl7dp6iUsFn-/view?usp=sharing
 
