@@ -1,0 +1,12 @@
+[   {"No.":1,"Phrase":"ADJP","Descriptions":"Adjective Phrase"},
+    {"No.":2,"Phrase":"ADVP","Descriptions":"Adverb Phrase"},
+    {"No.":3,"Phrase":"CONJP","Descriptions":"Conjunction Phrase"},
+    {"No.":4,"Phrase":"NP","Descriptions":"Noun Phrase"},
+    {"No.":5,"Phrase":"PP","Descriptions":"Propositional Phrase"},
+    {"No.":6,"Phrase":"S","Descriptions":"Sentence"},
+    {"No.":7,"Phrase":"SC","Descriptions":"Subordinate Clause"},
+    {"No.":8,"Phrase":"SPKP","Descriptions":"Spoken Phrase"},
+    {"No.":9,"Phrase":"THEREP","Descriptions":"There Verb-to-be Phrase"},
+    {"No.":10,"Phrase":"VP","Descriptions":"Verb Phrase"}
+]
+    
